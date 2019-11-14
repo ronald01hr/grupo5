@@ -1,0 +1,28 @@
+.contenedor{
+    width: 100%;
+    position: absolute;
+    padding: 0% 5% 5% 5%;
+}
+.caja{
+    font-size: 20px;   
+    background: beige;
+    padding: 25px;
+    margin-top: 70px;
+}
+.izquierda {
+    padding: 40px;
+    background:aqua ;    
+    margin-left: 5%;
+}
+.derecha{
+    padding: 40px;
+    text-align: center;
+    background: azure;
+    margin-left: 36%;
+    margin-right: 4%;
+    margin-top: -27%;
+}
+.desc {
+    width: 100%;
+    height: 30%;
+}
